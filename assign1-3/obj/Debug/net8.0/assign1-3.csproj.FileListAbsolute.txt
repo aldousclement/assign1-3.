@@ -1,0 +1,14 @@
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\bin\Debug\net8.0\assign1-3.exe
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\bin\Debug\net8.0\assign1-3.deps.json
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\bin\Debug\net8.0\assign1-3.runtimeconfig.json
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\bin\Debug\net8.0\assign1-3.dll
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\bin\Debug\net8.0\assign1-3.pdb
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\obj\Debug\net8.0\assign1-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\obj\Debug\net8.0\assign1-3.AssemblyInfoInputs.cache
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\obj\Debug\net8.0\assign1-3.AssemblyInfo.cs
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\obj\Debug\net8.0\assign1-3.csproj.CoreCompileInputs.cache
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\obj\Debug\net8.0\assign1-3.dll
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\obj\Debug\net8.0\refint\assign1-3.dll
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\obj\Debug\net8.0\assign1-3.pdb
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\obj\Debug\net8.0\assign1-3.genruntimeconfig.cache
+C:\Users\I5 PC\Documents\assign1-3\assign1-3\assign1-3\obj\Debug\net8.0\ref\assign1-3.dll
